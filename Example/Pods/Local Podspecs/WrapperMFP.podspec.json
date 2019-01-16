@@ -1,0 +1,22 @@
+{
+  "name": "WrapperMFP",
+  "version": "0.1.0",
+  "summary": "A short description of WrapperMFP.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rajarahul12/WrapperMFP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rajarahul12": "maddula.rajarahul@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rajarahul12/WrapperMFP.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WrapperMFP/Classes/**/*"
+}

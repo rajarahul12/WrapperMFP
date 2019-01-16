@@ -1,0 +1,6 @@
+framework module WrapperMFP {
+  umbrella header "WrapperMFP-umbrella.h"
+
+  export *
+  module * { export * }
+}

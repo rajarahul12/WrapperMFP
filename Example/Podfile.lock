@@ -1,0 +1,16 @@
+PODS:
+  - WrapperMFP (0.1.0)
+
+DEPENDENCIES:
+  - WrapperMFP (from `../`)
+
+EXTERNAL SOURCES:
+  WrapperMFP:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WrapperMFP: 8d4cd8d081cafce4eb0226797238d709e328a97e
+
+PODFILE CHECKSUM: 19952f464e982be5575c3444d0caa1e0521b24e4
+
+COCOAPODS: 1.5.3
