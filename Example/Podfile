@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WrapperMFP_Tests' do
+  pod 'WrapperMFP', :path => '../'
+  
+  
+end
