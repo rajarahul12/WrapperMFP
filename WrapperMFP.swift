@@ -5,9 +5,9 @@
 //  Created by Raja Rahul on 16/01/19.
 //
 
-import UIKit
+import Foundation
 
-public class WrapperMFP: UIView {
+public class WrapperMFP{
 
     public func connect() -> String {
         return "Hello";
